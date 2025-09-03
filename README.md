@@ -17,7 +17,7 @@ I develop and architect full-stack web applications using the MERN (MongoDB, Exp
 ---
 📊 **GitHub Stats**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VJYGOUR&show_icons=true&theme=react&hide_border=true" alt="VJYGOUR's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJYGOUR&layout=compact&theme=react&hide_border=true" alt="VJYGOUR's Top Languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VJYGOUR&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="VJYGOUR's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJYGOUR&layout=compact&theme=react&hide_border=true" alt="VJYGOUR's Top Languages" /> |
 | ------------- | ------------- |
 
 **Connect with me:**
