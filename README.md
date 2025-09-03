@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**VJYGOUR/VJYGOUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer
 
-Here are some ideas to get you started:
+I develop and architect full-stack web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. My focus is on creating efficient, scalable, and secure systems with clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Technical Stack:**
+
+*   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+*   **Frontend:** React, Redux Toolkit, Next.js, React Query, Tailwind CSS
+*   **Backend:** Node.js, Express.js, RESTful API Design, Authentication (JWT)
+*   **Database:** MongoDB, Mongoose, PostgreSQL
+*   **Tools & DevOps:** Git, Docker, AWS, Vercel, Netlify
+
+---
+
+**Connect with me:**
+
+[![All Social](https://linktr.ee/vishu33.x)
