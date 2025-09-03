@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate software developer specializing in building full-stack web applications with the **MERN (MongoDB, Express.js, React, Node.js)** stack. I focus on writing clean, efficient, and scalable code to create seamless user experiences.
+I'm a nuetral software developer specializing in building full-stack web applications with the **MERN (MongoDB, Express.js, React, Node.js)** stack. I focus on writing clean, efficient, and scalable code to create seamless user experiences.
 
 ```javascript
 const vijay = {
