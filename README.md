@@ -1,46 +1,27 @@
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6B9BED&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Vijay+Gour;MERN+Stack+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
-  </a> 
-</h1>
+### Hi there, I'm Vijay Gour 👋
 
-<h3 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30px"> Crafting digital experiences with code
-</h3>
+#### MERN Stack Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-</p>
+I'm a passionate software developer specializing in building full-stack web applications with the MERN (MongoDB, Express.js, React, Node.js) stack. I focus on writing clean, efficient, and scalable code to create seamless user experiences.
 
 ---
 
-### 🚀 About Me
+🛠 **Tech Stack & Tools**
 
-```javascript
-const vjy = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "Python"],
-  askMeAbout: ["web dev", "tech", "photography"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Redux"],
-      css: ["Tailwind", "Bootstrap", "Material UI"]
-    },
-    backEnd: {
-      js: ["Node", "Express", "NestJS"],
-    },
-    databases: ["MongoDB", "PostgreSQL"],
-    devOps: ["AWS", "Docker", "Nginx"],
-    misc: ["Firebase", "Socket.IO"]
-  },
-  currentFocus: "Building scalable backend systems with Node.js",
-  funFact: "There are about 700 programming languages!"
-};
+**Frontend:** React | Redux | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap
+**Backend:** Node.js | Express.js | RESTful APIs | JWT | Socket.io
+**Database:** MongoDB | Mongoose | PostgreSQL
+**DevOps & Tools:** Git | GitHub | npm | Postman | Vercel | Netlify | AWS Basics
+
+---
+
+📊 **GitHub Stats**
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=VJYGOUR&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="VJYGOUR's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJYGOUR&layout=compact&theme=react&hide_border=true" alt="VJYGOUR's Top Languages" /> |
+| ------------- | ------------- |
+
+---
+
+📫 **Connect with me:**
+
+[Socials](https://linktr.ee/vishu33.x)
