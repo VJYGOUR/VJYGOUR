@@ -18,4 +18,4 @@ I develop and architect full-stack web applications using the MERN (MongoDB, Exp
 
 **Connect with me:**
 
-[![All Social](https://linktr.ee/vishu33.x)
+[All Social](https://linktr.ee/vishu33.x)
